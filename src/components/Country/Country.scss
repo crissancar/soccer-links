@@ -1,0 +1,14 @@
+@import '../../scss/index.scss';
+
+.container-country{
+    text-align: center;
+    margin-bottom: 25px;
+
+    .country{
+        color: $font-light;
+    }
+
+    .img-fluid{
+        width: 15%;
+    }
+}

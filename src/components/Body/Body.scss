@@ -1,0 +1,30 @@
+@import '../../scss/index.scss';
+
+.main-content{
+    // padding-top: 100px;
+    margin-top: 25px;
+    // background-color: red;
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+
+    .scroll-up{
+        padding-right: 0px;
+        border-radius: 40px 0px 0px 0px;
+
+
+        span{
+            color: $background-dark-web;
+        }
+
+        img{
+            border-radius: 40px;
+            padding: 8px;
+            background-color: $twitter;
+            width: 40px;
+        }
+    }
+
+}

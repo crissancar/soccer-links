@@ -1,0 +1,47 @@
+@import '../../scss/index.scss';
+
+.main-banner{
+        // border: 1px solid white;
+        padding: 10px;
+        // padding-left: 25px;
+
+        hr{
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        
+        a{
+            text-decoration: none;
+            color: $font-grey-light;
+            // font-weight: bold;
+            font-size: 18px;
+        }
+
+        a:hover{
+            color: $font-grey;
+        }
+
+        .submenu{
+            font-size: 15px;
+            // color: $font-grey;
+        }
+
+    
+    .league{
+        text-align: center;
+        padding: 5px;
+        // margin-top: 0px;
+        
+        .league-groups{
+            // border: 1px solid black;
+            .row{
+                // border: 1px solid red;
+            }
+            a{
+            margin-top: 0px;
+              font-size: 11px;
+            //   padding: 5px;
+            }
+          }
+    }
+}

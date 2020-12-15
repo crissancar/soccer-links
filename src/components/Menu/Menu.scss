@@ -1,0 +1,25 @@
+@import "../../scss/index.scss";
+
+.menu-container {
+  background-color: $menu-color;
+  // border: 1px solid green;
+
+  .logo {
+    img {
+      width: 65px;
+      margin-right: 25px;
+    }
+  }
+
+  #accordion{
+    // background-color: lightblue;
+    width: 100%;
+  }
+
+  .navbar{
+    // border: 1px solid red;
+    padding: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}

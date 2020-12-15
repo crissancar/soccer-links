@@ -1,0 +1,29 @@
+@import "../../../scss/index.scss";
+
+.social-media{
+    // display: flex;
+    // align-items: center;
+    // justify-content: flex-end;
+    justify-content: center;
+    width: 100%;
+
+    a{
+        // display: flex;
+        // margin-right: 10px;
+        // padding: 5px 8px;
+        // border-radius: 5px;
+        // align-items: center;
+
+
+        // &.twitter{
+        //     background-color: $twitter;
+        // }
+
+
+        svg{
+            width: 20px;
+            height: 20px;
+        }
+    }
+
+}

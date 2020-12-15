@@ -1,0 +1,21 @@
+@import '../../scss//index.scss';
+
+.team{
+    margin-top: 10px;
+    // background-color: red;
+    // border-right: 1px solid rgba(156, 153, 153, 0.507);
+    border-right: 5px groove rgba(28,110,164,0.2);
+    a{
+        color: $font-grey-light;
+    }
+    a:hover{
+        color: $primary-color-dark;
+        a:visited{
+            color: $font-grey-light;
+        }
+    }
+
+    // .name{
+    //     padding-right: 25px;
+    // }
+}
