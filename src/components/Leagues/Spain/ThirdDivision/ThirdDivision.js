@@ -1917,7 +1917,7 @@ export default function ThirdDivision() {
                 <Team
                     name={"Alcudia"}
                     link={"https://www.sofascore.com/team/football/ud-alcudia/263570"}
-                    twitterLink={"https://twitter.com/uealcudia?lang=es"}
+                    twitterLink={"https://twitter.com/ue_alcudia"}
                 />
                 <Team
                     name={"Binissalem"}
